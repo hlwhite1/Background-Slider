@@ -1,4 +1,4 @@
-## Daily Small Projects - Day 3 of 50 (Background Slider) 
+## Daily Small Projects - Day 18 of 50 (Background Slider) 
 
 **USED:** HTML, CSS, Javascript
 
